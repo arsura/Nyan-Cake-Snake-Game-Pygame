@@ -5,4 +5,7 @@ This game made with Python, [Pygame](http://www.pygame.org/) and [Pytest Framewo
 
 # Screenshot
 
-<img src="https://github.com/arsura/Computer-Programming/blob/master/Nyan%20Cat%20(Snake%20Game)/Screenshot/screenshot_1.png" width="400" height="300"> <img src="https://github.com/arsura/Computer-Programming/blob/master/Nyan%20Cat%20(Snake%20Game)/Screenshot/screenshot_2.png" width="400" height="300"> <img src="https://github.com/arsura/Computer-Programming/blob/master/Nyan%20Cat%20(Snake%20Game)/Screenshot/screenshot_3.png" width="400" height="300"> <img src="https://github.com/arsura/Computer-Programming/blob/master/Nyan%20Cat%20(Snake%20Game)/Screenshot/screenshot_4.png" width="400" height="300">
+<img src="https://github.com/arsura/Nyan-Cake-Snake-Game-Pygame/blob/master/Screenshot/screenshot_1.png" width="400" height="300"> 
+<img src="https://github.com/arsura/Nyan-Cake-Snake-Game-Pygame/blob/master/Screenshot/screenshot_2.png" width="400" height="300"> 
+<img src="https://github.com/arsura/Nyan-Cake-Snake-Game-Pygame/blob/master/Screenshot/screenshot_3.png" width="400" height="300">
+<img src="https://github.com/arsura/Nyan-Cake-Snake-Game-Pygame/blob/master/Screenshot/screenshot_4.png" width="400" height="300">
