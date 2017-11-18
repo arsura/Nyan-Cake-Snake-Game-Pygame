@@ -1,5 +1,5 @@
 # Nyan Cat (Snake Game)
-## Computer Programming Project on 1st Year Semester 2, 2015. <br/>
+<h3> Computer Programming Project on 1st Year Semester 2, 2015. </h3><br/>
 This game made with Python, [Pygame](http://www.pygame.org/) and [Pytest Framework](https://doc.pytest.org/) for scenario test. For example out of bound, crashing some objects. I learned about pygame and snakegame from 
 [thenewboston](https://www.youtube.com/channel/UCJbPGzawDH1njbqV-D5HqKw) channel on Youtube and applied his code for making this game. 
 
